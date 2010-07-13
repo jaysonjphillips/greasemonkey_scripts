@@ -1,0 +1,17 @@
+Some Greasemonkey scripts that I needed, so I'm sharing.
+Scripts:
+
+======================================================================
+Title: fb_remove_redundant_punctuation.js
+
+Desc:  Tired of seeing the blatant disregard for Strunk & White's masterpiece,
+       "The Elements of Style", I called upon GreaseMonkey to reign in
+       grammatical deviants whose flippant and intentionally egregious
+       use of exclamation points and other majestic punctuation marks
+       must be stopped! That goes for malformed ellipses too. Punks.
+
+Notes: Update by Jayson J. Phillips considerably cleans up script and makes
+       it usable. See source for notes
+
+
+

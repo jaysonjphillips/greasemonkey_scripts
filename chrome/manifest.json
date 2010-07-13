@@ -1,0 +1,13 @@
+{
+   "content_scripts": [ {
+      "js": [ "index.js" ],
+      "matches": [ "http://www.facebook.com/*", "https://www.facebook.com/*", "http://*.fbcdn.net/*" ]
+   } ],
+   "description": "Reduces redundant punctuation to a single instance. Facebook version. Ported from http://userscripts.org/scripts/show/62993",
+   "icons": {
+      "128": "icon128.png",
+      "48": "icon48.png"
+   },
+   "name": "Remove Excessive Punctuation (Facebook)",
+   "version": "1.0.4"
+}
